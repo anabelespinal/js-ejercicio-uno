@@ -8,7 +8,7 @@
 2-Leer datos:
       +dato uno
       +dato dos
-3-Multiplicar datos
+3-Sumar datos
 4-Entregar datos
 5-Fin
 
